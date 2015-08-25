@@ -3,7 +3,7 @@
  * Database configuration
  */
 define('DB_USERNAME', 'root');
-define('DB_PASSWORD', 'Pl4t1num');
+define('DB_PASSWORD', '');
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'resume');
 
